@@ -1,14 +1,25 @@
-# PyToDeb 🔄🐍→📦
+# 🖥️ Terminal-BR
 
-**Conversor automático de scripts Python para pacotes .deb**  
-*(Licenciado sob Azur License 1.0)*  
+**Terminal-BR** é um projeto brasileiro voltado para entusiastas de tecnologia, automação, comunidade online e servidores. Aqui você encontrará ferramentas, configurações e conteúdos relacionados ao nosso servidor oficial no Discord.
 
 ---
 
-## ✨ Funcionalidades
-- Transforma qualquer script `.py` em um pacote `.deb` instalável
-- Gera automaticamente:
-  - Estrutura de diretórios DEB
-  - Dependências Python (`Depends:` no controle)
-  - Ícones e entradas no menu (opcional)
-- Suporte a argumentos CLI e configuração via YAML
+## 📁 Sobre o Projeto
+
+Este repositório contém:
+
+- 📜 Arquivos de regras do servidor Discord  
+- ⚙️ Configs e personalizações de bots  
+- 🧩 Scripts úteis (automação, utilitários, etc.)  
+- 📦 Recursos visuais (logos, banners, etc.)  
+- 🔐 Guias sobre segurança, privacidade e boas práticas
+
+---
+
+## 📌 Objetivos
+
+- Salvar Arquivos online!
+- Downloads e dll e etc
+
+## 👾 Servidor do discord 
+[👉 Clique Aqui](https://discord.gg/aqZYEhGHaS)
