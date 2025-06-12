@@ -21,5 +21,7 @@ Este repositório contém:
 - Salvar Arquivos online!
 - Downloads e dll e etc
 
+---
+
 ## 👾 Servidor do discord 
 [👉 Clique Aqui](https://discord.gg/aqZYEhGHaS)
